@@ -13,7 +13,7 @@ Connect your Pi to driver shild:
 
 Tets:
 
-Not done yeat
+Tested with one dc motor conneted to the shield. Stop, reverse, forward works fine.
 
 
 Useful links:
